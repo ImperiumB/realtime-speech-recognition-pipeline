@@ -91,4 +91,4 @@ log_it(f"CURL Обрабатываем текст: {recognizedText}")
             r.raise_for_status()
             return None
           
-###Проект разработан в соавторстве с alexk@gmail.com
+###Проект разработан в соавторстве с glide1990@gmail.com
